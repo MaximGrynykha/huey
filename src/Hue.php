@@ -1,10 +1,10 @@
 <?php
 
-namespace Huey;
+namespace Ismaxim\Huey;
 
+use Ismaxim\Pathfinder\Path;
 use Intervention\Image\Image;
 use Intervention\Image\ImageManager;
-use Ismaxim\Pathfinder\Path;
 
 final class Hue
 {
